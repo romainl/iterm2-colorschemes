@@ -13,3 +13,15 @@ xterm dark:
 xterm light:
 
 ![xterm_light](xterm_light.png)
+
+Cold Wave:
+
+![cold_wave](cold_wave.png)
+
+Sepia dark:
+
+![sepia_dark](sepia_dark.png)
+
+Sepia light:
+
+![sepia_light](sepia_light.png)
