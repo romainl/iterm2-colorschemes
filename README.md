@@ -1,39 +1,39 @@
-Apprentice:
+Apprentice — A companion to [my eponymous Vim colorscheme](https://github.com/romainl/Apprentice).
 
 ![apprentice](apprentice.png)
 
-Low contrast:
+Low contrast — What it says on the tin.
 
 ![low_contrast](low_contrast.png)
 
-xterm dark:
+xterm dark — The ugly basics.
 
 ![xterm_dark](xterm_dark.png)
 
-xterm light:
+xterm light — The ugly basics.
 
 ![xterm_light](xterm_light.png)
 
-Cold Wave:
+Cold Wave — Pretty but not really usable.
 
 ![cold_wave](cold_wave.png)
 
-Sepia dark:
+Sepia dark — Pretty but not really usable.
 
 ![sepia_dark](sepia_dark.png)
 
-Sepia light:
+Sepia light — Pretty but not really usable.
 
 ![sepia_light](sepia_light.png)
 
-Boulogne:
+Boulogne — My default theme since about 10 years.
 
 ![boulogne](boulogne.png)
 
-Goldsworthy:
+Goldsworthy — Inspired by the work of Andy Goldsworthy.
 
 ![goldsworthy](goldsworthy.png)
 
-iso:
+ISO — Red, green, yellow, blue, magenta, cyan have the same brightness.
 
 ![iso](iso.png)
