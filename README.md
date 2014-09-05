@@ -26,7 +26,7 @@ Sepia light — Pretty but not really usable.
 
 ![sepia_light](sepia_light.png)
 
-Boulogne — My default theme since about 10 years.
+Boulogne — My default theme for about 10 years.
 
 ![boulogne](boulogne.png)
 
@@ -37,3 +37,7 @@ Goldsworthy — Inspired by the work of Andy Goldsworthy.
 ISO — Red, green, yellow, blue, magenta, cyan have the same brightness.
 
 ![iso](iso.png)
+
+Strategy — Halfway between Boulogne and ISO.
+
+![strategy](strategy.png)
