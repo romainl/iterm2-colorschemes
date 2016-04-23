@@ -1,3 +1,5 @@
+# I switched back to Terminal.app so this project can be considered officially abandoned.
+
 Apprentice — A companion to [my eponymous Vim colorscheme](https://github.com/romainl/Apprentice).
 
 ![apprentice](apprentice.png)
